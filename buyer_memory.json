@@ -1,0 +1,32 @@
+{
+  "A123": [
+    {
+      "product": "Bluetooth headphones",
+      "category": "electronics",
+      "price": 120
+    },
+    {
+      "product": "Running shoes",
+      "category": "sportswear",
+      "price": 80
+    },
+    {
+      "user_id": "A123",
+      "product": "Wireless Earbuds",
+      "category": "smart gadgets",
+      "price": 100
+    },
+    {
+      "user_id": "A123",
+      "product": "Compression Shirt",
+      "category": "sportswear",
+      "price": 45
+    },
+    {
+      "user_id": "A123",
+      "product": "Mechanical Keyboard",
+      "category": "electronics",
+      "price": 100
+    }
+  ]
+}
