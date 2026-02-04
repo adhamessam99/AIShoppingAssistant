@@ -151,6 +151,3 @@ This project fulfills all requirements of the assignment:
 ✔ Simulated purchase
 
 ✔ Persistent memory handling
-
-👨‍💻 Author
-Adham Essam Software Engineer
